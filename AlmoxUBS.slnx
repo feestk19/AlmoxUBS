@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Project Path="AlmoxUBS.API/AlmoxUBS.API.csproj" />
+  <Project Path="AlmoxUBS.Application/AlmoxUBS.Application.csproj" />
+  <Project Path="AlmoxUBS.Domain/AlmoxUBS.Domain.csproj" />
+  <Project Path="AlmoxUBS.Infrastructure/AlmoxUBS.Infrastructure.csproj" />
+  <Project Path="AlmoxUBS.Tests/AlmoxUBS.Tests.csproj" />
+  <Project Path="AlmoxUBS.WebApp/AlmoxUBS.WebApp.csproj" />
+</Solution>
